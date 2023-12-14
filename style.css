@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(241, 241, 110);
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: white;
+}
+
+
+
+/* add class if I want to include the other pages */
+
